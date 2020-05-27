@@ -9,7 +9,7 @@
 <body>
 <div id="b1">
 <div id="b2">
-<img src="kartinka.png" alt="логотип">      
+<img src="kartinka.jpeg" alt="логотип">      
 <h1 onmouseover="document.getElementById('b3').	
 borderStyle='2px solid red';" onmouseout="document.getElementById('b3').	
 borderStyle='0px solid red';">Сайт Гарбуз Т. О. </h1>
