@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title>Лабораторна робота 1. Гарбуз Тетяни.</title>
+<title>Лабораторна робота JavaScript. Гарбуз Тетяни.</title>
 <meta charset="utf-8">
 </head>
 
@@ -11,8 +11,8 @@
 <div id="b2">
 <img src="kartinka.jpeg" alt="логотип">      
 <h1 onmouseover="document.getElementById('b3').	
-borderStyle='2px solid red';" onmouseout="document.getElementById('b3').	
-borderStyle='0px solid red';">Сайт Гарбуз Т. О. </h1>
+borderStyle='2px solid lightred';" onmouseout="document.getElementById('b3').	
+borderStyle='0px solid lightred';">Сайт Гарбуз Т. О. </h1>
 <h3>Далеко не всегда ясно, в какие моменты жизни мы встречаемся с силой тока и моментом импульса.</h3>
 </div>
 <div id="b3">
